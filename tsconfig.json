@@ -17,6 +17,6 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["./client/src/*"]
-    }
+    }[<img> ]
   }
 }
