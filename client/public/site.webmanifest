@@ -1,7 +1,7 @@
 {
-  "name": "Mimo app",
-  "short_name": "",
-  "description": "",
+  "name": "Mary's Fried Chicken",
+  "short_name": "Mary's Chicken",
+  "description": "Delicioso pollo frito hecho con pasión - Orden en línea desde Mary's Fried Chicken",
   "start_url": "/",
   "scope": "/",
   "icons": [
@@ -16,9 +16,9 @@
       "type": "image/png"
     }
   ],
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff",
+  "theme_color": "#B41616",
+  "background_color": "#FFFFFF",
   "display": "standalone",
   "orientation": "portrait-primary",
-  "categories": ["productivity", "utilities"]
+  "categories": ["food", "restaurants"]
 }
